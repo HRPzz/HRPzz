@@ -1,14 +1,34 @@
-# My Stats
-
-Hi there 👋
-
-```null
-<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+```
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hi%20There%20👋&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
 ```
 
+## 🌱 I'm HRPzz 🤗 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHRPzz&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+✔ What kind of ❗error❗ will call me today❓ 🤔💧
+
+## 🌈 Tech Stacks 🌈
+
 ```null
-![trophy](https://github-profile-trophy.vercel.app/?username=HRPzz)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ```
 
-![HRPzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=HRPzz&&show_icons=true&theme=onedark)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HRPzz&layout=compact)](https://github.com/HRPzz/github-readme-stats)
+## ❄ Most Used Languages ❄
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HRPzz&layout=compact)](https://github.com/HRPzz/github-readme-stats)
+
+## 🔥 GitHub Stats 🔥
+
+![HRPzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=HRPzz&&show_icons=true&theme=onedark)
+
+## 🌟 GitHub Stat Trophies 🌟
+
+```null
+[![trophy](https://github-profile-trophy.vercel.app/?username=HRPzz&theme=onedark)](https://github.com/HRPzz/github-profile-trophy)
+```
+
+## 
+
+
+
+
 
