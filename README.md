@@ -1,6 +1,4 @@
-```
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hi%20There%20👋&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
-```
+![header](https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=160&section=header&text=Hi%20There%20👋&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
 
 ## 🌱 I'm HRPzz 🤗 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHRPzz&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -8,9 +6,7 @@
 
 ## 🌈 Tech Stacks 🌈
 
-```null
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-```
 
 ## ❄ Most Used Languages ❄
 
@@ -22,13 +18,4 @@
 
 ## 🌟 GitHub Stat Trophies 🌟
 
-```null
 [![trophy](https://github-profile-trophy.vercel.app/?username=HRPzz&theme=onedark)](https://github.com/HRPzz/github-profile-trophy)
-```
-
-## 
-
-
-
-
-
