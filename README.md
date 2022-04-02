@@ -14,8 +14,6 @@
 
 <img src="https://img.shields.io/badge/python-3670A0?style=round-square&logo=python&logoColor=white"/>
 
----
-
 ## 🤝 Cowork Tools
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=round-square&logo=GitHub&logoColor=white"/>
@@ -35,8 +33,6 @@
 |❄ Most Used Languages|🔥 GitHub Stats|
 |:---:|:---:|
 |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HRPzz&layout=compact&theme=onedark&langs_count=10)](https://github.com/HRPzz/github-readme-stats)|![HRPzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=HRPzz&&show_icons=true&theme=onedark)|
-
----
 
 ## 🏆 GitHub Stat Trophies 
 
