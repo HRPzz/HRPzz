@@ -6,7 +6,7 @@
 
 ✔ What kind of ❗error❗ will call me today❓ 💧
 
-<img src="https://i.giphy.com/media/26FlrxySR053aqbtu/giphy.webp" width="100px">
+<a href="https://github.com/HRPzz"><img src="https://i.giphy.com/media/26FlrxySR053aqbtu/giphy.webp" width="100px"></a>
 
 ---
 
@@ -34,7 +34,7 @@
 |:---:|:---:|
 |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HRPzz&layout=compact&theme=onedark&langs_count=10)](https://github.com/HRPzz/github-readme-stats)|![HRPzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=HRPzz&&show_icons=true&theme=onedark)|
 
-## 🏆 GitHub Stat Trophies 
+## 🏆 GitHub Stat Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=HRPzz&theme=onedark)](https://github.com/HRPzz/github-profile-trophy)
 
